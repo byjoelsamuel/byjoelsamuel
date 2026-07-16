@@ -1,5 +1,5 @@
 ## Joel Samuel 
-__Software Developer__
+> __Software Developer__
 
 - Currently learning React
 - Revising Python & CSS
