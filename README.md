@@ -33,8 +33,6 @@ Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (X
 * [css-exercises](https://github.com/byjoelsamuel/css-exercises) — Forked from [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises)
 * [odin-recipies](https://github.com/byjoelsamuel/odin-recipies) — Part of TOP's curriculum
 
-### Other Projects [🛠️]
+### Personal Workout Tracker [💪] (In Development)
 
-** [workout-tracker](https://github.com/byjoelsamuel/workout-tracker) — Personalized workout tracker that logs and suggests workouts based on body type, goals and preference
-* [aboutme](https://github.com/byjoelsamuel/aboutme) — Skills, experience, resume, and future projects
-* [JavaScript_Test](https://github.com/byjoelsamuel/JavaScript_Test)
+* [workout-tracker](https://github.com/byjoelsamuel/workout-tracker) — Personalized workout tracker that logs and suggests workouts based on body type, goals and preference
