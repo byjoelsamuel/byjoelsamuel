@@ -1,6 +1,8 @@
 ## Joel Samuel
 > __Software Developer__
 
+![](https://komarev.com/ghpvc/?username=byjoelsamuel&color=grey&style=flat)
+
 - Currently learning Harvard's CS50 Course + The Odin Project 🖥️
 - Next: [React](https://motion.dev/docs/react) 🎯
 - Fun fact: I love cats 💭
@@ -9,7 +11,7 @@ My neocities site! -> https://nxko.neocities.org
 
 ---
 
-### Homelab [🖥️]
+### Homelab
 
 Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (XFCE) with Docker + Portainer managing:
 
@@ -23,7 +25,7 @@ Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (X
 
 ---
 
-### The Odin Project / Learning [🗄️]
+### The Odin Project / Learning
 
 * [TOP-etch-a-sketch](https://github.com/byjoelsamuel/TOP-etch-a-sketch) — Etch-a-sketch project, part of TOP
 * [Project-Rock-Paper-Scissors](https://github.com/byjoelsamuel/Project-Rock-Paper-Scissors) — Custom RPS project per TOP's requirements
@@ -33,6 +35,6 @@ Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (X
 * [css-exercises](https://github.com/byjoelsamuel/css-exercises) — Forked from [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises)
 * [odin-recipies](https://github.com/byjoelsamuel/odin-recipies) — Part of TOP's curriculum
 
-### Personal Workout Tracker [💪] (In Development)
+### Personal Workout Tracker (In Development)
 
 * [workout-tracker](https://github.com/byjoelsamuel/workout-tracker) — Personalized workout tracker that logs and suggests workouts based on body type, goals and preference
