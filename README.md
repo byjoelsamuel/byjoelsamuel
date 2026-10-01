@@ -11,6 +11,18 @@ My neocities site! -> https://nxko.neocities.org
 
 ---
 
+### The Odin Project / Learning
+
+* [TOP-etch-a-sketch](https://github.com/byjoelsamuel/TOP-etch-a-sketch) — Etch-a-sketch project, part of TOP
+* [Project-Rock-Paper-Scissors](https://github.com/byjoelsamuel/Project-Rock-Paper-Scissors) — Custom RPS project per TOP's requirements
+* [javascript-exercises](https://github.com/byjoelsamuel/javascript-exercises) — Forked from [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises)
+* [learning-area](https://github.com/byjoelsamuel/learning-area) — Forked from [mdn/learning-area](https://github.com/mdn/learning-area), practicing TOP concepts
+* [odin-lading-page](https://github.com/byjoelsamuel/odin-lading-page) — Flexbox project
+* [css-exercises](https://github.com/byjoelsamuel/css-exercises) — Forked from [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises)
+* [odin-recipies](https://github.com/byjoelsamuel/odin-recipies) — Part of TOP's curriculum
+
+---
+
 ### Homelab
 
 Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (XFCE) with Docker + Portainer managing:
@@ -24,16 +36,6 @@ Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (X
 - Hard Drive formatted and mounted for storage, backing Nextcloud + Jellyfin's media library
 
 ---
-
-### The Odin Project / Learning
-
-* [TOP-etch-a-sketch](https://github.com/byjoelsamuel/TOP-etch-a-sketch) — Etch-a-sketch project, part of TOP
-* [Project-Rock-Paper-Scissors](https://github.com/byjoelsamuel/Project-Rock-Paper-Scissors) — Custom RPS project per TOP's requirements
-* [javascript-exercises](https://github.com/byjoelsamuel/javascript-exercises) — Forked from [TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises)
-* [learning-area](https://github.com/byjoelsamuel/learning-area) — Forked from [mdn/learning-area](https://github.com/mdn/learning-area), practicing TOP concepts
-* [odin-lading-page](https://github.com/byjoelsamuel/odin-lading-page) — Flexbox project
-* [css-exercises](https://github.com/byjoelsamuel/css-exercises) — Forked from [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises)
-* [odin-recipies](https://github.com/byjoelsamuel/odin-recipies) — Part of TOP's curriculum
 
 ### Personal Workout Tracker (In Development)
 
