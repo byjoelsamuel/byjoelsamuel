@@ -1,6 +1,5 @@
 ## Joel Samuel
 > __Software Developer__
-
 ![](https://komarev.com/ghpvc/?username=byjoelsamuel&color=grey&style=flat)
 
 - Currently learning Harvard's CS50 Course + The Odin Project 🖥️
