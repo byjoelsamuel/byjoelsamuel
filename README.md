@@ -10,6 +10,10 @@ My neocities site! -> https://nxko.neocities.org
 
 ---
 
+### Personal Workout Tracker (In Development)
+
+* [workout-tracker](https://github.com/byjoelsamuel/workout-tracker) — Personalized workout tracker that logs and suggests workouts based on body type, goals and preference
+* [DriveSanity](https://github.com/byjoelsamuel/DriveSanity) - Custom Gauge UI for Android Auto; Displays RPM, Vehicle Speed, Fuel level, Coolant level, etc. Implement an Open-Source Live Map data, along with a G-Vector system that uses the phones Gyroscope. Needs a Bluetooth OBD2 Reader for accurate results! 
 ### The Odin Project / Learning
 
 * [TOP-etch-a-sketch](https://github.com/byjoelsamuel/TOP-etch-a-sketch) — Etch-a-sketch project, part of TOP
@@ -35,7 +39,3 @@ Repurposed my old Lenovo IdeaPad into a self-hosted server — running Debian (X
 - Hard Drive formatted and mounted for storage, backing Nextcloud + Jellyfin's media library
 
 ---
-
-### Personal Workout Tracker (In Development)
-
-* [workout-tracker](https://github.com/byjoelsamuel/workout-tracker) — Personalized workout tracker that logs and suggests workouts based on body type, goals and preference
